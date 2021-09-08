@@ -1,0 +1,21 @@
+Movies : Sausage Party.
+Day :Sunday
+Time :9:00 to 12:00
+Tpye of seat:VIP.
+Bought 2 VIP seat!
+Total : 600 Bath
+-------------------------------
+Movies : Sausage Party.
+Day :Sunday
+Time :9:00 to 12:00
+Tpye of seat:VIP.
+Bought 3 VIP seat!
+Total : 900 Bath
+-------------------------------
+Movies : Movies : Movies : Sausage Party.
+Day :Day :Day :Sunday
+Time :Time :Time :13:00 to 15:00
+Tpye of seat:Tpye of seat:Tpye of seat:VIP.
+Bought 5 VIP seat!
+Total : 1500 Bath
+-------------------------------
